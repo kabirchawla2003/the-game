@@ -33,7 +33,7 @@ label start:
     # $
     m "(*sigh that's one way to wake up I guess...)"
     # $
-    
+    # hello world
     
 
     # This ends the game.
