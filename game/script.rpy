@@ -3,6 +3,8 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character. we still need to decide the name of the character
 
+#Hi
+
 define m = Character("Main Guy")
 define p = Character("Pilot")
 
